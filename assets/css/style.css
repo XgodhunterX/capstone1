@@ -1,0 +1,147 @@
+
+body, html {
+	height: 100%;
+}
+
+.bg_img {
+	background-image: url(../images/bg_network.png);
+	/*background-image: url(../images/bg_network_inv.png);*/
+	height: auto;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgb(20, 20, 20);
+	background-attachment: fixed;
+}
+
+#nav_logo {
+	max-height: 90px;
+	/*max-width: 90px;*/
+}
+
+#org_name {
+	font-size: 30px; 
+	color: #40ff00;
+	/*font-family: */
+	vertical-align: middle;
+	margin: auto;
+	padding-left: 2.5px;
+}
+
+
+#nav_items {
+	color: black;
+}
+
+.nav1 {
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 20%;
+}
+
+.mantra {
+	/*font-family: */
+	color: white;
+	/*margin: 2.5px;*/
+	padding-left: 0px;
+	padding-top: 2.5px;
+	padding-right: 0px;
+	text-align: center;
+	height: 100%
+}
+
+.text1 {
+	margin-left: 5px;
+}
+
+
+.landing2 {
+width: 90%;
+height: 100%;
+}
+
+.cont {
+	border: 1px solid #40ff00;
+	height: 100%;
+	color: white;
+	margin-left: 2.5px;
+	margin-top: 5px;
+	/*margin-right: 2.5px;*/
+	text-align: center;
+
+}
+
+.cell {
+	border: 1px solid gray;
+	text-align: center;
+	width: auto;
+	background-color: transparent;
+	margin-top: 5px;
+}
+
+.img_css {
+	margin-top: 5px;
+	max-height: 200px;
+	max-width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: transparent;
+	border-radius: 5px;
+}
+
+.text2 {
+	color: #40ff00;
+}
+
+.text3 {
+	color: white;
+}
+
+.button-holder	 {
+	/*width: 100%;*/
+	text-align: right;
+}
+
+.contact-us {
+	margin-top: 15px; 
+}
+
+#submit1 {
+	background-color: #40ff00;
+	border-color: #40ff00;
+	color: black;
+}
+
+.img-carousel1 {
+	max-width: 75%; 
+	max-height: 80%; 
+	margin-right: auto; 
+	margin-left: auto; 
+	margin-top: 5px; 
+	background-color: transparent; 
+	border-radius: 5px;
+}
+
+.cell2 {
+	text-align: center;
+	width: auto;
+	background-color: transparent;
+	margin-top: 5px;
+}
+
+
+
+.landing {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+} 	
+
+.index-mv {
+	text-align: center;
+	font-size: 10vw;
+	margin-top: auto;
+
+}
